@@ -1,1 +1,1 @@
-# OmegaImageCaptions
+# LitImageCaptions
